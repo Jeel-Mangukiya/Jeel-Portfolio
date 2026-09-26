@@ -1,32 +1,70 @@
-# React + TypeScript + Vite
+# 👋 Jeel Mangukiya — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal portfolio website! 🚀
 
-Currently, two official plugins are available:
+This portfolio showcases my journey as a **Computer Science & Engineering graduate**, my technical skills, projects, internship experience, and the work I've built while learning and developing as a software developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The website is designed to provide a simple, modern, and interactive way to explore my background, projects, skills, and experience.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌐 Live Website
 
-## Expanding the Oxlint configuration
+🔗 **Portfolio:** [Visit My Portfolio](YOUR_VERCEL_URL)
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+---
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+## ✨ About the Portfolio
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+This website is my personal digital space where I showcase:
+
+- 👨‍💻 About Me
+- 🛠️ Technical Skills
+- 🚀 Projects
+- 💼 Internship Experience
+- 🎓 Education
+- 📄 Resume
+- 📬 Contact Information
+
+The goal of this portfolio is to give recruiters, developers, and visitors a quick overview of my technical background and the projects I've worked on.
+
+---
+
+## 🛠️ Built With
+
+This portfolio is built using modern web technologies:
+
+- **React** — Frontend UI development
+- **TypeScript** — Type-safe JavaScript development
+- **Vite** — Fast development and production build tool
+- **Tailwind CSS** — Responsive and modern styling
+- **Framer Motion** — Animations and interactive effects
+- **Lucide React** — Icons
+
+---
+
+## 🚀 Features
+
+- 📱 Fully responsive design
+- 🎨 Modern and clean UI
+- ⚡ Fast performance with Vite
+- ✨ Smooth animations and transitions
+- 🧩 Component-based React architecture
+- 📂 Project showcase
+- 💼 Experience and skills sections
+- 📄 Resume section
+- 📬 Contact section
+- 🌙 Modern visual design
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+├── components/
+├── pages/
+├── assets/
+├── App.tsx
+├── main.tsx
+└── ...
